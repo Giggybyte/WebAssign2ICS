@@ -14,3 +14,7 @@ As a college student, it's important to stay organized and have a general idea o
 
 ## When did you make this?
 I wrote this on a weekend as a freshman at VT that quickly got fed up with not having all of my assignments in one place.
+
+## What's next?
+- Automation
+  - Let users have the option to log in with their user/pass defined in an external file, so this script could be run automatically with something like `cron`.
